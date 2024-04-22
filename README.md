@@ -1,0 +1,1 @@
+[![Playwright Tests](https://github.com/xizot/playwright-pom-example/actions/workflows/playwright.yml/badge.svg?branch=master)](https://github.com/xizot/playwright-pom-example/actions/workflows/playwright.yml)
